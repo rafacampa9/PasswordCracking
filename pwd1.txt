@@ -1,0 +1,15 @@
+*************************************************************************************************************
+[*] La contraseña es: Cristiano Ronaldo Dos Santos Aveiro
+
+[*] La contraseña en MD5 es: c5e169f5c4163598af58945d7d66c952
+
+[*] La contraseña en SHA-1 es: 177438ec5b36f8335d2a3f56c49067793b63b07d
+
+[*] La contraseña en SHA-224 es: 524f37ec6165b093ec640c5ec538da71e9fdc331b0236b18fbfbb665
+
+[*] La contraseña en SHA-256 es: fe22a9f57a3281a93d8da39b2fb44b0aef32efcfdb3ce08dfc405d430b7ab804
+
+[*] La contraseña en SHA-384 es: 362b3fd843d18ebf7169ef9b27af48d2cb5dcf9a7ce128cfa1028810232fae672adb2bc42da9cb646b02d929522a256b
+
+[*] La contraseña en SHA-512 es: 684d000763810368f7d678009ff4a1249de0284e9e7e45e3d7a8b4fb65070dc4b082ba2b86d801a4fd4012c1085cac0b3ea9d3f05bc42bffcaa6794dfb210fcd
+
